@@ -1,1 +1,1 @@
-git commit -m "Ajouté ma checklist-vacances.md (woohoo!)"
+git commit -a -m "Ajouté ma checklist-vacances.md"
